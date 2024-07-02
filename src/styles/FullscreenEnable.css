@@ -1,0 +1,9 @@
+.fullscreenToggleIcon{
+  position: absolute;
+  top: 8%;
+  left: 60px;
+  width: 64px;
+  height: 64px;
+  cursor: pointer;
+  color: #000;
+}

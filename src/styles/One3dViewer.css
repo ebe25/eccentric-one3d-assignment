@@ -1,0 +1,47 @@
+
+.colors {
+  padding: 0.3125pc 15px;
+  background: #000;
+  border-color: #f00;
+  color: #fff;
+  border-style: 1px solid red;
+}
+.colors option {
+  border-width: 0.75pt;
+}
+.colors select,
+button:focus,
+input:focus {
+  border-width: 0.010416667in;
+}
+.colors button:focus,
+select,
+input:focus {
+  border-image: none;
+}
+.leftSection button {
+  padding-top: 4.5pt;
+  padding-bottom: 4.5pt;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+  border-width: 0.010416667in;
+  font-weight: 700;
+  margin: 3.75pt;
+  cursor: pointer;
+  border: 1px solid black;
+  color: #fff;
+}
+.loader {
+  position: absolute;
+  transform: translate(50%, -50%);
+  top: 57%;
+  right: 50%;
+  color: rgb(255, 255, 255);
+  z-index: 1;
+  font-size: 15px;
+  font-weight: 600;
+}
+#LoaderText1 {
+  font-size: 75pt;
+}

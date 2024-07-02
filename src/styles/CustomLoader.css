@@ -1,0 +1,19 @@
+
+ svg{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 150px;
+	width: 150px;
+}
+.loader{
+    position: absolute;
+    transform: translate(50%, -50%);
+    top: 57%;
+    right: 50%;
+    color: rgb(255, 255, 255);
+}
+#LoaderText1 {
+    font-size: 75pt;
+}

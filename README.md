@@ -27,6 +27,7 @@ Here're some of the project's best features:
 - 3D Hotspot Click Events- Interior and Exterior
 - Add Color Change UI - Colors Dropdown select box
 - Custom Loader
+- FullScreen mode button
 
 <h2>🛠️ Installation Steps:</h2>
 

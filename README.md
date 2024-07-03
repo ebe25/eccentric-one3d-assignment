@@ -6,17 +6,17 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://iili.io/dKxjxTv.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dKxjxTv.png" alt="project-screenshot" /><br/>
 
-<img src="https://iili.io/dKxjcyG.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dKxjcyG.png" alt="project-screenshot" /><br/>
 
-<img src="https://iili.io/dKxjjae.md.png " alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dKxjjae.md.png " alt="project-screenshot" /> <br/>
 
-<img src="https://iili.io/dKxjw8u.md.png " alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dKxjw8u.md.png " alt="project-screenshot" /><br/>
 
-<img src="https://iili.io/dKxjNyb.md.png " alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dKxjNyb.md.png " alt="project-screenshot" /><br/>
 
-<img src="https://iili.io/dKxjhF9.md.png " alt="project-screenshot" width="400" height="400/">
+<img src="https://iili.io/dKxjhF9.md.png " alt="project-screenshot"/> <br/>
 
 <h2>🧐 Features</h2>
 
